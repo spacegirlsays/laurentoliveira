@@ -1,11 +1,12 @@
 ## ✨ Welcome ! ✨
 
-🎂 - 23 years old
-📍 - Sorocaba, Sao Paulo
-💍 - Married with the best guy ever
-👶🏻 - Josue's mommy 
-💻 - Web Developer
-
+<ul>
+  <li>🎂 - 23 years old</li>
+  <li>📍 - Sorocaba, Sao Paulo </li>
+  <li>💍 - Married with the best guy ever</li>
+  <li>👶🏻 - Josue's mommy </li>
+  <li> 💻 - Web Developer</li>
+</ul>
 
 <div align="center">
   <a href="https://github.com/laurentoliveira">
