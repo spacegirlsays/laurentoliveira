@@ -1,7 +1,7 @@
 ## ✨ Welcome ! ✨
 
 <div align="center">
-  <a href="https://github.com/laurentolveira">
+  <a href="https://github.com/laurentoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurentoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
