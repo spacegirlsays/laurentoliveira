@@ -1,11 +1,11 @@
 ## ✨ Welcome ! ✨
 
 <ul>
-  <li>🎂 - 23 years old</li>
+  <li>🎂 - 24 years old</li>
   <li>📍 - Sorocaba, Sao Paulo </li>
   <li>💍 - Married with the best guy ever</li>
-  <li>👶🏻 - Josue's mommy </li>
-  <li> 💻 - Web Developer</li>
+  <li>👶🏻 - mommy </li>
+  <li> 💻 - Developer</li>
 </ul>
 
 <div align="center">
